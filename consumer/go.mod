@@ -1,4 +1,4 @@
-module kafka_go
+module example.com/consumer
 
 go 1.19
 
